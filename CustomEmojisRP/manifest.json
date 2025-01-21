@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Custom Emojis by MRBBATES1",
+        "name": "Custom Emojis by MRBBATES1",
+        "uuid": "f9eab80d-3f04-4e5b-8134-e42e6b9b8552",
+        "version": [0, 0, 1],
+        "min_engine_version": [ 1, 17, 0 ]
+    },
+    "modules": [
+        {
+            "description": "Custom Emojis by MRBBATES1",
+            "type": "resources",
+            "uuid": "62e9b970-4632-46e0-8e99-3f4a17be67d7",
+            "version": [0, 0, 1]
+        }
+    ]
+}

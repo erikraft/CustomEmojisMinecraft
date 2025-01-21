@@ -8,7 +8,7 @@ When the 'CustomEmojisBP' is applied to your world along side 'CustomEmojisRP' i
 
 | **Example Text** | **Result** |
 | :--------- | :-- |
-| :mrbbates1: | ![mrbbates1](https://mojibase.djstomp.win/static/glyphs/57608.png) |
+| :erikraft: | ![erikraft](https://mojibase.djstomp.win/static/glyphs/57608.png) |
 | :armor: | ![armor](https://mojibase.djstomp.win/static/glyphs/57601.png "Armor")
 | :Food: | ![food](https://mojibase.djstomp.win/static/glyphs/57600.png "Food")
 | :minecoin: | ![minecoin](https://mojibase.djstomp.win/static/glyphs/57602.png "Minecoin") |
